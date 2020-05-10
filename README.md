@@ -76,6 +76,6 @@ Name, Reference, Point, Total, Contest, Category
 - 2020/05/10 β版公開
 
 ## お問い合わせ
-- 疑問やご指摘等ありましたら、以下の手段でご連絡ください。
-  - 白岡市民のTwitterアカウント：@Whitehill9
-  - 白岡市民のGoogleアカウント：whcitizen.puzzle@gmail.com
+- 疑問やご指摘等ありましたら、以下の宛先にご連絡ください。
+  - Twitter：@Whitehill9
+  - Eメール：whcitizen.puzzle@gmail.com
